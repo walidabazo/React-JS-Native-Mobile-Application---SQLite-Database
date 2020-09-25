@@ -1,5 +1,5 @@
-// Example: Example of SQLite Database in React Native
-// https://aboutreact.com/example-of-sqlite-database-in-react-native
+//    blog.edafait.com
+//    www.edafait.com
 // Custom TextInput
 
 import React from 'react';
