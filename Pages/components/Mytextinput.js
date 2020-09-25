@@ -1,6 +1,5 @@
-// https://blog.edafait.com
-// https://www.edafait.com
-
+// Example: Example of SQLite Database in React Native
+// https://aboutreact.com/example-of-sqlite-database-in-react-native
 // Custom TextInput
 
 import React from 'react';
