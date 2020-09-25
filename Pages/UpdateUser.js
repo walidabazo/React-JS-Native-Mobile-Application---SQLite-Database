@@ -1,6 +1,5 @@
-// https://blog.edafait.com
-// https://www.edafait.com
-
+//    blog.edafait.com
+//    www.edafait.com
 // Screen to update the user
 
 import React, { useState } from 'react';
@@ -134,7 +133,7 @@ const UpdateUser = ({ navigation }) => {
             </KeyboardAvoidingView>
           </ScrollView>
         </View>
-      <Text style={{ fontSize: 16, textAlign: 'center', color: 'Black' }}>
+      <Text style={{ fontSize: 16, textAlign: 'center', color: 'grey' }}>
           www.edafait.com
         </Text>
       </View>
