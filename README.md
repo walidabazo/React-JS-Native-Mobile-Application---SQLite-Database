@@ -40,6 +40,34 @@ Dependencies for react-navigation
 
 ### Project Structure
 
+1 - Edit App.js 
+
+2 - Download Pages folder  
+
+
+### Error  android SDK Not found 
+
+Go to your ContactList -> Android -> Create a file  local.properties
+Such as :
+paste your Android SDK path 
+
+#### in Windows: 
+sdk.dir = C:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk
+#### in macOS 
+sdk.dir = /Users/USERNAME/Library/Android/sdk
+
+#### in linux 
+sdk.dir = /home/USERNAME/Android/Sdk
+
+### If ReactNative Metro Bundler not starting automatically
+
+Create folder   ContactList/android/app/src/main/assets
+
+on CMD 
+ContactList/android/app/src/main/assets > 
+                   
+    run react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
+
 
 
 ### To Run the React Native App Android
