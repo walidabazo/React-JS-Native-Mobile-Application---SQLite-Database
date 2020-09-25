@@ -1,5 +1,5 @@
-// https://blog.edafait.com
-// https://www.edafait.com
+//    blog.edafait.com
+//    www.edafait.com
 
 import React, { useEffect } from 'react';
 import { View, Text, SafeAreaView } from 'react-native';
@@ -33,7 +33,7 @@ const HomeScreen = ({ navigation }) => {
     <SafeAreaView style={{ flex: 1 }}>
       <View style={{ flex: 1, backgroundColor: 'white' }}>
         <View style={{ flex: 1 }}>
-          <Mytext text="SQLite Example" />
+          <Mytext text="SQLite Example Contact List" />
           <Mybutton
             title="New Contact"
             customClick={() => navigation.navigate('NewContact')}
@@ -55,7 +55,7 @@ const HomeScreen = ({ navigation }) => {
             customClick={() => navigation.navigate('Delete')}
           />
         </View>
-         <Text style={{ fontSize: 16, textAlign: 'center', color: 'Black' }}>
+       <Text style={{ fontSize: 16, textAlign: 'center', color: 'grey' }}>
           www.edafait.com
         </Text>
       </View>
