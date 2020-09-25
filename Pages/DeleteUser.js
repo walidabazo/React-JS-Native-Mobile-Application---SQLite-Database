@@ -1,6 +1,5 @@
-// https://blog.edafait.com
-// https://www.edafait.com
-
+//    blog.edafait.com
+//    www.edafait.com
 // Screen to delete the user
 
 import React, { useState } from 'react';
@@ -52,7 +51,7 @@ const DeleteUser = ({ navigation }) => {
           />
           <Mybutton title="Delete User" customClick={deleteUser} />
         </View>
-         <Text style={{ fontSize: 16, textAlign: 'center', color: 'Black' }}>
+       <Text style={{ fontSize: 16, textAlign: 'center', color: 'grey' }}>
           www.edafait.com
         </Text>
       </View>
