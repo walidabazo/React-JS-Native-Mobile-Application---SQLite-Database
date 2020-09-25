@@ -1,6 +1,6 @@
-// https://blog.edafait.com
-// https://www.edafait.com
-// Screen to ADD the user
+//    blog.edafait.com
+//    www.edafait.com
+// Screen to register the user
 
 import React, { useState } from 'react';
 import {
@@ -17,7 +17,7 @@ import { openDatabase } from 'react-native-sqlite-storage';
 
 var db = openDatabase({ name: 'UserDatabase.db' });
 
-const NewContact = ({ navigation }) => {
+const RegisterUser = ({ navigation }) => {
   let [userName, setUserName] = useState('');
   let [userContact, setUserContact] = useState('');
   let [userAddress, setUserAddress] = useState('');
@@ -47,7 +47,7 @@ const NewContact = ({ navigation }) => {
           if (results.rowsAffected > 0) {
             Alert.alert(
               'Success',
-              'Add New Contact Successfully',
+              'You are Registered Successfully',
               [
                 {
                   text: 'Ok',
@@ -56,7 +56,7 @@ const NewContact = ({ navigation }) => {
               ],
               { cancelable: false }
             );
-          } else alert('Add New Contact Failed');
+          } else alert('Registration Failed');
         }
       );
     });
@@ -94,7 +94,7 @@ const NewContact = ({ navigation }) => {
             </KeyboardAvoidingView>
           </ScrollView>
         </View>
-         <Text style={{ fontSize: 16, textAlign: 'center', color: 'Black' }}>
+        <Text style={{ fontSize: 16, textAlign: 'center', color: 'grey' }}>
           www.edafait.com
         </Text>
       </View>
@@ -102,5 +102,4 @@ const NewContact = ({ navigation }) => {
   );
 };
 
-export default NewContact;
-
+export default RegisterUser;
