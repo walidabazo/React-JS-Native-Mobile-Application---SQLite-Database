@@ -52,7 +52,7 @@ Such as :
 paste your Android SDK path 
 
 #### in Windows: 
-sdk.dir = C:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk
+sdk.dir = C:\\\Users\\\USERNAME\\\AppData\\\Local\\\Android\\\sdk
 #### in macOS 
 sdk.dir = /Users/USERNAME/Library/Android/sdk
 
