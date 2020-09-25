@@ -1,6 +1,5 @@
-// https://blog.edafait.com
-// https://www.edafait.com
-
+//    blog.edafait.com
+//    www.edafait.com
 // Custom Button
 
 import React from 'react';
@@ -17,7 +16,7 @@ const Mybutton = (props) => {
 const styles = StyleSheet.create({
   button: {
     alignItems: 'center',
-    backgroundColor: '#f05555',
+    backgroundColor: '#221eeb',
     color: '#ffffff',
     padding: 10,
     marginTop: 16,
