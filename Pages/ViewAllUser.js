@@ -1,6 +1,5 @@
-// https://blog.edafait.com
-// https://www.edafait.com
-
+//    blog.edafait.com
+//    www.edafait.com
 // Screen to view all the user*/
 
 import React, { useState, useEffect } from 'react';
@@ -55,7 +54,7 @@ const ViewAllUser = () => {
             renderItem={({ item }) => listItemView(item)}
           />
         </View>
-         <Text style={{ fontSize: 16, textAlign: 'center', color: 'Black' }}>
+     <Text style={{ fontSize: 16, textAlign: 'center', color: 'grey' }}>
           www.edafait.com
         </Text>
       </View>
