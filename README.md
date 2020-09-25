@@ -63,8 +63,7 @@ sdk.dir = /home/USERNAME/Android/Sdk
 
 Create folder   ContactList/android/app/src/main/assets
 
-on CMD 
-ContactList/android/app/src/main/assets > 
+
                    
     run react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
 
@@ -77,5 +76,14 @@ ContactList/android/app/src/main/assets >
 ### To Run the React Native App IOS  (macOS only).
 
     react-native run-ios
+    
+### If Update and not show must be
+
+    run react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
+    
+### Websites
+https://wwww.edafait.com
+Https://Blog.edafait.com
+https://webxr.edafait.com 
 
 
