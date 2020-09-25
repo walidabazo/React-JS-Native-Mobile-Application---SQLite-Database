@@ -1,6 +1,5 @@
-// https://blog.edafait.com
-// https://www.edafait.com
-
+//    blog.edafait.com
+//    www.edafait.com
 // Custom Text
 
 import React from 'react';
