@@ -1,6 +1,5 @@
-// https://blog.edafait.com
-// https://www.edafait.com
-
+//    blog.edafait.com
+//    www.edafait.com
 // Screen to view single user
 
 import React, { useState } from 'react';
@@ -52,7 +51,8 @@ const ViewUser = () => {
             <Text>User Address: {userData.user_address}</Text>
           </View>
         </View>
-         <Text style={{ fontSize: 16, textAlign: 'center', color: 'Black' }}>
+      
+        <Text style={{ fontSize: 16, textAlign: 'center', color: 'grey' }}>
           www.edafait.com
         </Text>
       </View>
