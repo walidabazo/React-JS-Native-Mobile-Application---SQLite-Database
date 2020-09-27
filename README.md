@@ -85,8 +85,8 @@ Create folder   ContactList/android/app/src/main/assets
 
 [![Watch the video](https://img.youtube.com/vi/VCN5Th19hZM/0.jpg)](https://youtu.be/VCN5Th19hZM)
 ### Websites
-https://wwww.edafait.com
-Https://Blog.edafait.com
-https://webxr.edafait.com 
+https://wwww.edafait.com <br>
+Https://Blog.edafait.com<br>
+https://webxr.edafait.com <br>
 
 
