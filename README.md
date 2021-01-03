@@ -3,6 +3,9 @@
 ###### we will use the SQLite3 Native Plugin which will work in both Android and iOS. It is based on the Cordova SQLite plugin.
 ###### We will be having some custom components like (Button, Text, Textinput).
 
+## YouTube Channel Wonder developer To Subscriber 
+https://youtube.com/channel/UCNJVG9_IebHe-NF-K_Y8Grw?sub_confirmation=1
+
 Download Node js https://nodejs.org/en/download/
 
 ## To Make a React Native App
