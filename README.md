@@ -3,8 +3,7 @@
 ###### we will use the SQLite3 Native Plugin which will work in both Android and iOS. It is based on the Cordova SQLite plugin.
 ###### We will be having some custom components like (Button, Text, Textinput).
 
-## YouTube Channel Wonder developer To Subscriber 
-https://youtube.com/channel/UCNJVG9_IebHe-NF-K_Y8Grw?sub_confirmation=1
+
 
 Download Node js https://nodejs.org/en/download/
 
@@ -87,9 +86,14 @@ Create folder   ContactList/android/app/src/main/assets
 ### Video
 
 [![Watch the video](https://img.youtube.com/vi/VCN5Th19hZM/0.jpg)](https://youtu.be/VCN5Th19hZM)
-### Websites
-https://wwww.edafait.com <br>
-Https://Blog.edafait.com<br>
-https://webxr.edafait.com <br>
+
+## Can be start web Augmented reality
+Https://Webxr.edafait.com
+
+## Good Company hosting and low price VPN 
+https://shorturl.edafait.com/?fZVHLor 
+
+## YouTube Channel Wonder developer To Subscriber 
+https://shorturl.edafait.com/?zuS4kvW
 
 
